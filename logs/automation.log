@@ -1,0 +1,150 @@
+05/11/2025 11:37:24 PM: INFO: *** Test_001_homepage started *** 
+05/11/2025 11:37:24 PM: INFO: launching application 
+05/11/2025 11:37:26 PM: INFO: maximize the browser 
+05/11/2025 11:37:28 PM: INFO: move hover over account icon 
+05/11/2025 11:37:28 PM: INFO: account tab is verified as guest user 
+05/11/2025 11:37:29 PM: INFO: browser is closed
+05/14/2025 08:19:39 AM: INFO: *** Test_001_homepage started *** 
+05/14/2025 08:19:41 AM: INFO: launching application 
+05/14/2025 08:19:42 AM: INFO: maximize the browser 
+05/14/2025 08:19:43 AM: INFO: move hover over account icon 
+05/14/2025 08:19:43 AM: INFO: account tab is verified as guest user 
+05/14/2025 08:19:43 AM: INFO: browser is closed
+05/14/2025 09:10:02 AM: INFO: *** Test_001_homepage started *** 
+05/14/2025 09:10:04 AM: INFO: launching application 
+05/14/2025 09:10:04 AM: INFO: maximize the browser 
+05/14/2025 09:10:05 AM: INFO: move hover over account icon 
+05/14/2025 09:10:05 AM: INFO: account tab is verified as guest user 
+05/14/2025 09:10:06 AM: INFO: browser is closed
+05/14/2025 09:10:35 AM: INFO: *** Test_001_homepage started *** 
+05/14/2025 09:10:37 AM: INFO: launching application 
+05/14/2025 09:10:37 AM: INFO: maximize the browser 
+05/14/2025 09:10:38 AM: INFO: move hover over account icon 
+05/14/2025 09:10:38 AM: INFO: account tab is verified as guest user 
+05/14/2025 09:10:40 AM: INFO: browser is closed
+05/14/2025 09:11:09 AM: INFO: *** Test_001_homepage started *** 
+05/14/2025 09:11:10 AM: INFO: launching application 
+05/14/2025 09:11:10 AM: INFO: maximize the browser 
+05/14/2025 09:12:01 AM: INFO: *** Test_001_homepage started *** 
+05/14/2025 09:12:02 AM: INFO: launching application 
+05/14/2025 09:12:02 AM: INFO: maximize the browser 
+05/14/2025 09:12:03 AM: INFO: move hover over account icon 
+05/14/2025 09:12:03 AM: INFO: account tab is verified as guest user 
+05/14/2025 09:12:05 AM: INFO: browser is closed
+05/14/2025 09:12:29 AM: INFO: *** Test_001_homepage started *** 
+05/14/2025 09:12:31 AM: INFO: launching application 
+05/14/2025 09:12:31 AM: INFO: maximize the browser 
+05/14/2025 09:12:33 AM: INFO: move hover over account icon 
+05/14/2025 09:12:33 AM: INFO: account tab is verified as guest user 
+05/14/2025 09:12:33 AM: INFO: browser is closed
+05/18/2025 12:33:13 PM: INFO: *** Test_001_homepage started *** 
+05/18/2025 12:33:16 PM: INFO: launching application 
+05/18/2025 12:33:16 PM: INFO: maximize the browser 
+05/18/2025 12:33:17 PM: INFO: move hover over account icon 
+05/18/2025 12:33:17 PM: INFO: account tab is verified as guest user 
+05/18/2025 12:33:17 PM: INFO: browser is closed
+05/18/2025 12:36:59 PM: INFO: *** Test_001_homepage started *** 
+05/18/2025 12:37:00 PM: INFO: launching application 
+05/18/2025 12:37:00 PM: INFO: maximize the browser 
+05/18/2025 12:37:02 PM: INFO: move hover over account icon 
+05/18/2025 12:37:02 PM: INFO: account tab is verified as guest user 
+05/18/2025 12:37:02 PM: INFO: browser is closed
+05/18/2025 02:17:18 PM: INFO: *** Test_001_homepage started *** 
+05/18/2025 02:17:20 PM: INFO: launching application 
+05/18/2025 02:17:21 PM: INFO: maximize the browser 
+05/18/2025 02:17:22 PM: INFO: move hover over account icon 
+05/18/2025 02:17:22 PM: INFO: account tab is verified as guest user 
+05/18/2025 02:17:22 PM: INFO: browser is closed
+05/24/2025 01:53:02 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 01:58:38 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 02:02:05 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 02:04:33 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 02:09:00 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 02:10:45 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 02:15:18 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 02:18:14 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 03:13:34 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 06:01:22 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 06:04:33 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 06:14:19 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 06:28:42 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 06:37:15 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 06:40:27 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 06:50:23 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 06:55:44 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 07:00:59 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 07:38:28 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 07:46:47 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 07:54:08 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 08:05:08 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 08:41:20 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 08:43:39 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 08:48:42 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 08:49:27 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 09:28:06 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 10:09:44 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 10:21:48 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 10:24:51 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 10:26:57 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 10:27:38 PM: INFO: **** Starting test_003_login_Datadrivrooen *******
+05/24/2025 10:37:48 PM: INFO: **** Starting Data-Driven Login Test ****
+05/24/2025 10:37:53 PM: INFO: Test Case 1: Email: demoseller@droom.in, Expected: valid
+05/24/2025 10:38:10 PM: INFO: Login Passed
+05/24/2025 10:38:13 PM: INFO: Test Case 2: Email: dddemoselle@droom.in, Expected: invalid
+05/24/2025 10:38:30 PM: ERROR: Login Passed for invalid credentials
+05/24/2025 10:42:15 PM: INFO: **** Starting Data-Driven Login Test ****
+05/24/2025 10:42:21 PM: INFO: Test Case 1: Email: demoseller@droom.in, Expected: valid
+05/24/2025 10:42:36 PM: INFO: Login Passed
+05/24/2025 10:42:39 PM: INFO: Test Case 2: Email: abc@droom.in, Expected: invalid
+05/24/2025 10:42:56 PM: ERROR: Login Passed for invalid credentials
+05/24/2025 10:49:21 PM: INFO: **** Starting Data-Driven Login Test ****
+05/24/2025 10:49:27 PM: INFO: Test Case 1: Email: demoseller@droom.in, Expected: valid
+05/24/2025 10:49:41 PM: INFO: Login Passed
+05/24/2025 10:49:46 PM: INFO: Test Case 2: Email: abc@droom.in, Expected: invalid
+05/24/2025 10:50:03 PM: ERROR: Login Passed for invalid credentials
+05/24/2025 10:54:09 PM: INFO: **** Starting Data-Driven Login Test ****
+05/24/2025 10:54:16 PM: INFO: Test Case 1: Email: demoseller@droom.in, Expected: valid
+05/24/2025 10:54:39 PM: INFO: Login Passed
+05/24/2025 10:55:08 PM: INFO: **** Starting Data-Driven Login Test ****
+05/24/2025 10:55:13 PM: INFO: Test Case 1: Email: demoseller@droom.in, Expected: valid
+05/24/2025 10:55:33 PM: INFO: Login Passed
+05/24/2025 10:59:52 PM: INFO: **** Starting Data-Driven Login Test ****
+05/24/2025 10:59:58 PM: INFO: Test Case 1: Email: demoseller@droom.in, Expected: valid
+05/24/2025 11:02:24 PM: INFO: **** Starting Data-Driven Login Test ****
+05/24/2025 11:02:30 PM: INFO: Test Case 1: Email: demoseller@droom.in, Expected: valid
+05/24/2025 11:11:12 PM: INFO: **** Starting Data-Driven Login Test ****
+05/24/2025 11:11:17 PM: INFO: Test Case 1: Email: demoseller@droom.in, Expected: valid
+05/24/2025 11:11:37 PM: INFO: Login Passed
+05/24/2025 11:22:52 PM: INFO: **** Starting Data-Driven Login Test ****
+05/24/2025 11:22:55 PM: INFO: Test Case 1: Email: demoseller@droom.in, Expected: valid
+05/24/2025 11:24:03 PM: INFO: **** Starting Data-Driven Login Test ****
+05/24/2025 11:24:07 PM: INFO: Test Case 1: Email: demoseller@droom.in, Expected: valid
+05/24/2025 11:24:22 PM: INFO: Login Passed
+05/24/2025 11:24:25 PM: INFO: Test Case 2: Email: abc@droom.in, Expected: invalid
+05/24/2025 11:24:42 PM: ERROR: Login Passed for invalid credentials
+05/24/2025 11:41:24 PM: INFO: **** Starting Data-Driven Login Test ****
+05/24/2025 11:41:28 PM: INFO: Test Case 1: Email: demoseller@droom.in, Expected: valid
+05/24/2025 11:41:43 PM: INFO: Login Passed
+05/24/2025 11:42:41 PM: INFO: **** Starting Data-Driven Login Test ****
+05/24/2025 11:42:45 PM: INFO: Test Case 1: Email: demoseller@droom.in, Expected: valid
+05/24/2025 11:43:00 PM: INFO: Login Passed
+05/25/2025 12:21:00 AM: INFO: **** Starting Data-Driven Login Test ****
+05/25/2025 12:21:07 AM: INFO: Test Case 1: Email: demoseller@droom.in, Expected: valid
+05/25/2025 12:21:35 AM: INFO: Login Passed
+05/25/2025 12:21:45 AM: INFO: Test Case 2: Email: abc@droom.in, Expected: invalid
+05/25/2025 12:21:53 AM: ERROR: Login Passed for invalid credentials
+05/25/2025 12:22:03 AM: INFO: Test Case 3: Email: demoseller@droom.in, Expected: invalid
+05/25/2025 12:22:14 AM: ERROR: Login Passed for invalid credentials
+05/25/2025 12:22:28 AM: INFO: Test Case 4: Email: demoseller@droom.i, Expected: invalid
+05/25/2025 12:22:35 AM: ERROR: Login Passed for invalid credentials
+05/25/2025 12:22:49 AM: INFO: Test Case 5: Email: None, Expected: None
+05/25/2025 04:56:39 PM: INFO: **** Starting Data-Driven Login Test ****
+05/25/2025 04:56:44 PM: INFO: Test Case 1: Email: demoseller@droom.in, Expected: valid
+05/25/2025 04:56:54 PM: INFO: Login Passed
+05/25/2025 04:57:03 PM: INFO: Test Case 2: Email: abc@droom.in, Expected: invalid
+05/25/2025 04:57:11 PM: ERROR: Login Passed for invalid credentials
+05/25/2025 04:57:19 PM: INFO: Test Case 3: Email: demoseller@droom.in, Expected: invalid
+05/25/2025 04:57:26 PM: ERROR: Login Passed for invalid credentials
+05/25/2025 04:57:40 PM: INFO: Test Case 4: Email: demoseller@droom.i, Expected: invalid
+05/25/2025 04:57:46 PM: ERROR: Login Passed for invalid credentials
+05/25/2025 04:57:59 PM: INFO: Test Case 5: Email: None, Expected: None
